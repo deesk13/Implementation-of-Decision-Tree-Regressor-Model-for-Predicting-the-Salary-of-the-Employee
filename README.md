@@ -49,25 +49,25 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-Data.Head():
+## Data.Head():
 ![Screenshot 2024-10-18 174541](https://github.com/user-attachments/assets/37b240bf-0fcd-48d1-8bee-19b3fcf2dd22)
 
-Data.info():
+## Data.info():
 ![Screenshot 2024-10-18 174550](https://github.com/user-attachments/assets/3ce73bc5-2f5f-4a29-8461-038da612681d)
 
-isnull() and sum():
+## isnull() and sum():
 ![Screenshot 2024-10-18 174605](https://github.com/user-attachments/assets/b30ae367-b3f7-4375-b40e-87d1ddfed10c)
 
-Data.Head() for salary:
+## Data.Head() for salary:
 ![Screenshot 2024-10-18 174614](https://github.com/user-attachments/assets/f01e5b3a-16d1-48cc-a79d-940b1ef12b7f)
 
-MSE Value:
+## MSE Value:
 ![Screenshot 2024-10-18 174623](https://github.com/user-attachments/assets/8d417416-01fd-44c1-8ecb-47e417a1ed66)
 
-r2 Value:
+## r2 Value:
 ![Screenshot 2024-10-18 174632](https://github.com/user-attachments/assets/fd006860-95cd-4642-895a-c1414418f346)
 
-Data Prediction:
+## Data Prediction:
 ![Screenshot 2024-10-18 174649](https://github.com/user-attachments/assets/0db21c6e-0338-4db7-a35d-cc8d9bfcc4a1)
 
 ## Result:
